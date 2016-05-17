@@ -87,14 +87,14 @@
 - tutorial  
  [Contours : Getting Started](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_begin/py_contours_begin.html#contours-getting-started)  
 
- [Contour Features](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.html#contour-features)--
+ [Contour Features](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_features/py_contour_features.html#contour-features)  
 
- [Contour Properties](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_properties/py_contour_properties.html#contour-properties)--
+ [Contour Properties](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contour_properties/py_contour_properties.html#contour-properties)  
 
  [Contours : More Functions](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_more_functions/py_contours_more_functions.html#contours-more-functions)  
 
  [Contours Hierarchy](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_hierarchy/py_contours_hierarchy.html#contours-hierarchy)  
 
-- blog
-
-
+- blog  
+ [OpenCV-Python Tutorials (6) ~Image Processing in OpenCV~](http://asdm.hatenablog.com/entry/2016/02/24/175422)
+ [OpenCV-Python Tutorials (7) ~Image Processing in OpenCV~](http://asdm.hatenablog.com/entry/2016/05/17/140043)
