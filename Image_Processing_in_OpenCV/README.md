@@ -96,5 +96,6 @@
  [Contours Hierarchy](http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_contours/py_contours_hierarchy/py_contours_hierarchy.html#contours-hierarchy)  
 
 - blog  
- [OpenCV-Python Tutorials (6) ~Image Processing in OpenCV~](http://asdm.hatenablog.com/entry/2016/02/24/175422)
+ [OpenCV-Python Tutorials (6) ~Image Processing in OpenCV~](http://asdm.hatenablog.com/entry/2016/02/24/175422)  
+
  [OpenCV-Python Tutorials (7) ~Image Processing in OpenCV~](http://asdm.hatenablog.com/entry/2016/05/17/140043)
